@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "761919168076",
+    "firebase_url": "https://academymais-e48c9.firebaseio.com",
+    "project_id": "academymais-e48c9",
+    "storage_bucket": "academymais-e48c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761919168076:android:c2f0b60fff145998",
+        "android_client_info": {
+          "package_name": "com.example.vanniery.academymais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761919168076-6c7vr6s66tdaov9nmc7ib0mvdj3sih85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vanniery.academymais",
+            "certificate_hash": "be9a73d23d10b729ca16723975912550ab09b5a2"
+          }
+        },
+        {
+          "client_id": "761919168076-c7feuu248ismmva813jv2a74mtc6dj9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAym5BVRh1uaLB400Idn29J7rF3kjFfw5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761919168076-c7feuu248ismmva813jv2a74mtc6dj9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
